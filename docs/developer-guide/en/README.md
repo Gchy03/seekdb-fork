@@ -24,9 +24,8 @@ This section helps you set up the development environment and get OceanBase seek
 
 Once you have the environment set up, these guides will help you develop effectively:
 
-1. [Coding Standard](coding-standard.md) - Detailed C++ coding standards and constraints
-2. [Write and run unit tests](unittest.md) - How to write and execute unit tests
-3. [Running MySQL test](mysqltest.md) - How to run MySQL compatibility tests
+1. [Write and run unit tests](unittest.md) - How to write and execute unit tests
+2. [Running MySQL test](mysqltest.md) - How to run MySQL compatibility tests
 
 ### 3. Contribute to OceanBase seekdb
 
